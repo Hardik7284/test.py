@@ -1,1 +1,1 @@
-print("Hello Hardik How are you?\n all good buddy ")
+print("Hello Hardik How are you?\nall good buddy ")
